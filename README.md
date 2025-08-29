@@ -1,10 +1,10 @@
 # 🚀 Passbolt Deployment on AWS  
 
 👉 Passbolt is like a locker for your passwords, but online and for teams.
-You create a Passbolt account.
-You save your different website/app passwords inside it.
-Instead of remembering all those passwords, you just log in once to Passbolt.
-You can also share passwords securely with teammates (e.g., if everyone needs the same AWS or database password).
+- You create a Passbolt account.
+- You save your different website/app passwords inside it.
+- Instead of remembering all those passwords, you just log in once to Passbolt.
+- You can also share passwords securely with teammates (e.g., if everyone needs the same AWS or database password).
 
 It works through the Chrome extension, so when you open a site, Passbolt can help you fill in the saved password.
 A complete project on deploying **Passbolt (open-source password manager)** on **Amazon Web Services (AWS)**.  
